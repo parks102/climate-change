@@ -29,6 +29,7 @@ nav_order: 1
 # ![poot](https://images.app.goo.gl/Jey141cH2MrsaYuE6)
 ![My image](http://url/to/image.jpg)
  
+![Chloe](/docs/IMG_3804.JPG)
 
 [Link to my drive](https://drive.google.com/drive/u/1/folders/16dpXeBCqFb1bhIinsfa3s-h-_bWH_3MU)
   
