@@ -4,11 +4,8 @@
 
 | Article | Source URL | Summary | Explanation |
 | ------------- | ------------- | ------------- | ------------- |
-| Bleached From a Distance | https://wattsupwiththat.com/2021/09/27/bleached-from-a-distance/ 
-Corals appear bleached in photographs because of the light wavelengths that penetrate to the depths the reefs are located.
-| Corals appear bleached in photographs because of the light wavelengths that penetrate to the depths the reefs are located.
-| Light underwater, combined with photography and colour adjustments during the editing process can in fact distort how things appear in real life, so I questioned whether the factors that can affect the photography and/ or editing would have an effect on the corals in these photos, specifically by making them appear more bleached than they actually are. ![Uploading image.png…]()
-|
+| Bleached From a Distance | https://wattsupwiththat.com/2021/09/27/bleached-from-a-distance/ | Corals appear bleached in photographs because of the light wavelengths that penetrate to the depths the reefs are located. | Corals appear bleached in photographs because of the light wavelengths that penetrate to the depths the reefs are located.|
+
 
 
 # Q3: Evaluate the #1 claim on your list. #
