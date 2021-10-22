@@ -2,7 +2,7 @@
 # Top 5 List of Articles #
 
 
-| Article | Source URL | Summary | Explanation |
+| **Article** | **Source URL** | **Summary** | **Explanation** |
 | ------------- | ------------- | ------------- | ------------- |
 | Bleached From a Distance | https://wattsupwiththat.com/2021/09/27/bleached-from-a-distance/ | Corals appear bleached in photographs because of the light wavelengths that penetrate to the depths the reefs are located. | Corals appear bleached in photographs because of the light wavelengths that penetrate to the depths the reefs are located.|
 | Cold-related Mortality Dwarfs Heat-related Mortality in Portugal | http://www.co2science.org/articles/V24/jan/a4.php | Since human mortality is more often associated with cold weather than warm weather, cold temperatures should be a greater source of concern for policymakers. | I had not previously come across papers regarding the correlation between mortality caused by cold and hot weather; despite the somewhat vague content of the article, the inclusion of findings and figures from a peer-reviewed, cited article made me question whether this relationship was significant in the light of climate change impacts. |
